@@ -2,8 +2,8 @@
 Calculadora en consola con python
 
 Caracteristicas:
--Calculadora en consola/terminal
--Permite sumar, restar, multiplicar, calcular raiz cuadrada
+- Calculadora en consola/terminal
+- Permite sumar, restar, multiplicar, calcular raiz cuadrada
 
 Como usarla:
 - Clonamos el repositorio en nuestra pc: git clone https://github.com/SantiagoPalacios0/Calculadora.git
